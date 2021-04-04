@@ -1,0 +1,53 @@
+{
+  "name": "Yakuza BSC",
+  "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/sushi_logo.png",
+  "keywords": ["YakuzaSwap"],
+  "timestamp": "2021-01-03T00:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+      "chainId": 97,
+      "name": "BinanceUSD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    },
+    {
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "chainId": 56,
+      "name": "BinanceUSD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    },
+    {
+      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "chainId": 97,
+      "name": "WrappedBNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/binance_32.png"
+    },
+    {
+      "address": "0xf63a43de30fCcbb93717BCfEf6BBA3B525A9Fd11",
+      "chainId": 97,
+      "name": "YakuzaToken",
+      "symbol": "YAKUZA",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/binance_32.png"
+    },
+    {
+      "address": "0x37BE4F2aF27EFA9053F53Dd1DD76Bce67B6dcCd3",
+      "chainId": 97,
+      "name": "KatanaToken",
+      "symbol": "KATANA",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/binance_32.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
